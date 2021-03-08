@@ -32,6 +32,6 @@ int main(int argc, char **argv) {
 	}
 	printf("]\n");
 
-	printf("Suma elementów w wektorze = %f\n", sum(vector, n));
+	printf("The sum of the elements in the vector = %f\n", sum(vector, n));
 	return 0;
 }
